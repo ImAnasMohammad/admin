@@ -8,8 +8,8 @@ const Feedback = () => {
     <div>
         {/* --------------------------------------------------------------------------------*/}
         <Card>
-            <CardTitle tag="h6" className="border-bottom p-3 mb-0">
-                <i className="bi bi-emoji-smile"> </i> Feedback
+            <CardTitle tag="h4" className="border-bottom p-3 mb-0">
+                <i className="bi bi-emoji-smile"> </i> Feedbacks
             </CardTitle>
             <CardBody className="">
             <div className="mt-3">
